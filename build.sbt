@@ -2,7 +2,7 @@ ThisBuild / organization := "com.ghptest"
 ThisBuild / scalaVersion := "2.13.10"
 ThisBuild / version := "1.0.2-SNAPSHOT"
 
-githubOwner := "weipingc"
+githubOwner := "dj707chen"
 githubRepository := "sbtPluginLabUser"
 githubTokenSource := TokenSource.Environment("MY_GITHUB_TOKEN")
 publishMavenStyle := true
